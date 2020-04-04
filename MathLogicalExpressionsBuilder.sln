@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLogicalExpressionsBuilder", "MathLogicalExpressionsBuilder\MathLogicalExpressionsBuilder.csproj", "{05027F80-217D-4540-831E-301BF19F84CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathExpressionsGeneratorTests", "MathExpressionsGeneratorTests\MathExpressionsGeneratorTests.csproj", "{67E6995F-80EB-4FEC-BCBF-BA75FD980D40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathExpressionsGenerator", "MathExpressionsGenerator\MathExpressionsGenerator.csproj", "{AD69AF16-E06A-4875-8C87-B8CC7D8E682F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05027F80-217D-4540-831E-301BF19F84CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05027F80-217D-4540-831E-301BF19F84CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05027F80-217D-4540-831E-301BF19F84CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05027F80-217D-4540-831E-301BF19F84CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E6995F-80EB-4FEC-BCBF-BA75FD980D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E6995F-80EB-4FEC-BCBF-BA75FD980D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E6995F-80EB-4FEC-BCBF-BA75FD980D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E6995F-80EB-4FEC-BCBF-BA75FD980D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD69AF16-E06A-4875-8C87-B8CC7D8E682F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD69AF16-E06A-4875-8C87-B8CC7D8E682F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD69AF16-E06A-4875-8C87-B8CC7D8E682F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD69AF16-E06A-4875-8C87-B8CC7D8E682F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C29B7180-0AB6-4521-910F-20B34D4966B9}
+	EndGlobalSection
+EndGlobal
